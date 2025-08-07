@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/madhav.github.io/accordion/static/css/main.c9519128.css",
-    "main.js": "/madhav.github.io/accordion/static/js/main.82076c25.js",
-    "static/js/453.b21a91d2.chunk.js": "/madhav.github.io/accordion/static/js/453.b21a91d2.chunk.js",
-    "static/media/logo.svg": "/madhav.github.io/accordion/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/madhav.github.io/accordion/index.html",
-    "main.c9519128.css.map": "/madhav.github.io/accordion/static/css/main.c9519128.css.map",
-    "main.82076c25.js.map": "/madhav.github.io/accordion/static/js/main.82076c25.js.map",
-    "453.b21a91d2.chunk.js.map": "/madhav.github.io/accordion/static/js/453.b21a91d2.chunk.js.map"
+    "main.css": "/accordion/static/css/main.c9519128.css",
+    "main.js": "/accordion/static/js/main.9ed046b6.js",
+    "static/js/453.b21a91d2.chunk.js": "/accordion/static/js/453.b21a91d2.chunk.js",
+    "static/media/logo.svg": "/accordion/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/accordion/index.html",
+    "main.c9519128.css.map": "/accordion/static/css/main.c9519128.css.map",
+    "main.9ed046b6.js.map": "/accordion/static/js/main.9ed046b6.js.map",
+    "453.b21a91d2.chunk.js.map": "/accordion/static/js/453.b21a91d2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c9519128.css",
-    "static/js/main.82076c25.js"
+    "static/js/main.9ed046b6.js"
   ]
 }
